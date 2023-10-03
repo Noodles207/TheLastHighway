@@ -26,3 +26,7 @@ I'll add more stuff as needed
 healthPotion = ["Health Potion", 3, "healWithoutOverheal", 20]
 
 """
+ENEMIES & MODIFIERS
+ENEMY NAMING SCHEME:
+enemyType = [enemyName, maxHealth, health, attackOne, attackTwo, attackThree, maxXP, minXP, modifier, modifier...]
+"""
